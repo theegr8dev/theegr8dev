@@ -51,3 +51,8 @@
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Operating System
+![Linux](https://img.shields.io/badge/Debian-F01032?style=for-the-badge&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-F08032?style=for-the-badge&logo=windows&logoColor=white)
+
