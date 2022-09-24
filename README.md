@@ -39,7 +39,7 @@
 
 ### Hosting/SaaS
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23431348.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Netlify](https://img.shields.io/badge/vercel-%23431348.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Programming & Markdown, Styling Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
